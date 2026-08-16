@@ -1,10 +1,10 @@
-# Portfolio Dev Full Stack
+Portfolio Dev Full Stack
 
-Projeto desenvolvido durante o curso de desenvolvimento web para praticar a construção de uma página de portfólio pessoal do zero[cite: 1].
+Projeto desenvolvido durante o curso de desenvolvimento web para praticar a construção de uma página de portfólio pessoal do zero.
 
-O objetivo foi aplicar na prática a criação de layouts responsivos, organizando elementos na tela e garantindo que a página funcione bem tanto em celulares quanto em computadores[cite: 1, 2].
+O objetivo foi aplicar na prática a criação de layouts responsivos, organizando elementos na tela e garantindo que a página funcione bem tanto em celulares quanto em computadores.
 
-## 🛠️ O que utilizei
+O que utilizei
 
 - HTML5: Estruturação dos elementos (navegação, seções de perfil, galeria e rodapé).
 - CSS3: Estilização visual, uso de variáveis para paleta de cores e "Flexbox" para alinhamentos.
